@@ -1,4 +1,4 @@
-# Zynthian Web Configuration Tool
+ # Zynthian Web Configuration Tool
 
 [Zynthian](http://zynthian.org) is an Open Synth Platform based in Raspberry Pi, Linux (Raspbian) and Free Software Synthesizers (mostly).
 
